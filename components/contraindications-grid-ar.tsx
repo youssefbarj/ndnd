@@ -92,7 +92,7 @@ export default function ContraindicationsGridAr() {
         entries.forEach((entry) => {
           if (entry.isIntersecting) {
             const cardId = Number.parseInt(entry.target.getAttribute("data-card-id") || "0")
-            setVisibleCards((prev) => new Set([...prev, cardId]))
+            setVisibleCards((prev) => new Set(Array.from(prev).concat(cardId)))
           }
         })
       },
