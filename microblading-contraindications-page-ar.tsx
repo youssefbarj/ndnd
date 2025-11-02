@@ -9,7 +9,7 @@ export default function MicrobladingContraindicationsPageAr() {
             تحذيرات إطالة الرموش
           </h1>
           <p className="text-lg text-gray-700 max-w-4xl mx-auto leading-relaxed">
-            قبل تقديم هذا العلاج، حدد أولاً المواقف الخطرة.
+            قبل تقديم هذا العلاج، حددي أولاً المواقف الخطرة.
           </p>
         </header>
 
@@ -30,7 +30,7 @@ export default function MicrobladingContraindicationsPageAr() {
             <div className="ml-3">
               <h3 className="text-lg font-semibold text-red-800 mb-2">المسؤولية المهنية</h3>
               <p className="text-red-700">
-                كمتخصص، من مسؤوليتك اكتشاف هذه التحذيرات أثناء الاستشارة الأولية لضمان سلامة عملائك
+                كمتخصصة، من مسؤوليتك اكتشاف هذه التحذيرات أثناء الاستشارة الأولية لضمان سلامة عميلاتك
                 أثناء علاجات إطالة الرموش.
               </p>
             </div>
