@@ -1,45 +1,18 @@
-# Arabic Lash Extensions Application
+# تطبيق إطالة الرموش — Lash Extensions (AR) Slide 8
 
-Arabic translation of the lash extensions contraindications and skin problems application.
+**Course:** Lash Extensions (AR)  
+**Slide:** 8  
+**Live URL:** https://ndnd.edtechiecorp.com  
+**Stack:** Next.js · Tailwind CSS · TypeScript · GitHub Pages  
 
-## Features
+## What this slide does
 
-- **إطالة الرموش** (Lash Extensions) contraindications and warnings
-- **مشاكل البشرة** (Skin Problems) gallery with microneedling treatments
-- Fully translated to Arabic with proper medical/beauty terminology
+Advanced Arabic-language lash extension technique content, covering the practical application steps for attaching individual lash extensions. Presented in right-to-left Arabic layout, this slide targets Arabic-speaking learners who are progressing through the technical portion of the lash extension course. At slide 8, learners are working through detailed technique content after covering theory and morphology in earlier slides.
 
-## Components
+## Screenshot
 
-### Contraindications Grid (شبكة الموانع)
-- Eye infections and inflammations
-- Recent surgeries
-- Known allergies
-- Pregnancy and breastfeeding
-- Chronic eye diseases
-- Contact lenses
-- History of lash damage
-- Skin hypersensitivity
-
-### Skin Problems Gallery (معرض مشاكل البشرة)
-- Mild acne (حب الشباب الخفيف)
-- Pigmentation spots (البقع التصبغية)
-- Dull complexion (البشرة الباهتة)
-- Enlarged pores (المسام المتوسعة)
-
-## Technology
-
-- Next.js
-- TypeScript
-- Tailwind CSS
-- Lucide React Icons
+![ndnd](./screenshot.png)
 
 ## Usage
 
-```tsx
-import MicrobladingContraindicationsPageAr from "./microblading-contraindications-page-ar"
-import SkinProblemsPageAr from "./skin-problems-page-ar"
-```
-
-## Language
-
-All content is in Arabic (العربية) with RTL support.
+This slide is embedded as an iframe inside Coassemble at the live URL above. DNS is managed via Cloudflare (`edtechiecorp.com`). To update the slide, push to the `main` branch — GitHub Actions will rebuild and redeploy automatically.
