@@ -8,7 +8,7 @@
 
 ## Screenshot
 
-![ndnd](https://github.com/youssefbarj/ndnd/raw/main/screenshot.png)
+![ndnd](https://raw.githubusercontent.com/youssefbarj/ndnd/main/screenshot.png)
 
 ## What this slide does
 
